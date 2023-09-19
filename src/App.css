@@ -1,0 +1,13 @@
+
+.stackInputs{
+    width: 50%;
+    margin: 2% auto;
+    padding: 2px 15px;
+    justify-content: center;
+    align-items: center;
+    row-gap: 2%;
+    
+}
+.btnAdd{
+    width: 20%;
+}

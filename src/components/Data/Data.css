@@ -1,0 +1,10 @@
+.stackData{
+    width: 100%;
+    margin: 2% 0%;
+    box-sizing: border-box;
+    justify-content:space-evenly;
+    gap: 5px;
+    align-items: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: rgb(255, 255, 255);
+}
